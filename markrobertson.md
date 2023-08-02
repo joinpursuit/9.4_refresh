@@ -1,1 +1,1 @@
-I love GIT
+I love GIT !git add .
