@@ -1,1 +1,1 @@
-This is my first commit!
+This is my first commit! You all are AWESOME ...also, why are we here!? LOL !
